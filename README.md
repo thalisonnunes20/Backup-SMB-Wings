@@ -34,7 +34,7 @@ sudo nano /etc/fstab
 
 Cole e Edite o comando abaixo com as devidas informações, como endereço de IP/path, UID do usuário criado e onde foi criada a pasta /mnt:
 
-//192.168.8.120/hdd6tb /mnt/backups cifs credentials=/etc/smb_credentials,uid=3002,gid=3002,file_mode=0775,dir_mode=0775,_netdev,vers=3.0  0  0
+//192.168.X.XXX/XXX /mnt/backups cifs credentials=/etc/smb_credentials,uid=XXX,gid=XXX,file_mode=0775,dir_mode=0775,_netdev,vers=3.0  0  0
 
 
 
