@@ -2,10 +2,10 @@ Como compartilhar pasta no Ubuntu 24.04 e Configurar Wings
 
 Instale esses pacotes:
 
-  sudo apt update && sudo apt upgrade -y
-  sudo apt install cifs-utils smbclient -y
+Bash: sudo apt update && sudo apt upgrade -y
 
-/mnt/
+Bash: sudo apt install cifs-utils smbclient -y
+  
 Criar o ponto de montagem:
 
 Bash: sudo mkdir -p /mnt/backups
