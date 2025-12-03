@@ -74,7 +74,7 @@ backup_directory: /var/lib/pelican/backups
 Altere para o caminho antes configurado no caso:
 
 ```bash
-/mnt/backups/backups/wings02
+/mnt/backups/wings02
 ```
 
 Reinicie o Servidor Wings.
